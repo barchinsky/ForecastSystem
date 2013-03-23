@@ -1,0 +1,6 @@
+Type:passenger, pos 55.142 22.147, destination: Washington
+Type:passenger, pos 56.125 41.233, destination: Kyiv
+Type:transport, pos 21.369 24.258, destination: Alaska airport
+Type:transport, pos 45.698 14.258, destination: London 1 airport
+Type:passenger, pos 45.697 56.145, destination: Paris National airport
+Type:passenger, pos 47.258 22.222, destination: Budapesht
